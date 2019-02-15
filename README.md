@@ -14,12 +14,12 @@
      <h1>FinThePrecious.com</h1>
      <nav>
     <ul>
-				<li><a href="#Fellows">Fellows</a></li>
-				<li><a href="#The Ring">The Ring</a></li>
-				<li><a href="#Get my reward">Get my reward</a></li>
-				<li><a href="#Best hunter">Best hunters</a></li>
-				<li><a href="#Join the army">Join the army</a></li>
-				<li><a href="#Contact us">Contact us</a></li>
+				<li>href="#Fellows">Fellows</li>
+				<li>href="#The-Ring">The Ring</li>
+				<li>href="#Get-my-reward">Get my reward</li>
+				<li>href="#Best-hunter">Best hunters</li>
+				<li>href="#Join-the-army">Join the army</li>
+				<li>href="#Contact-us">Contact us</li>
 			</ul>
      <img src=https://via.placeholder.com/140x140?text=140x140 alt="placeholder"/>
           <p>Dangerous fellowship try to destroy the ring</br>Orc,Goblins,Balrogs,protect your master Sauron !</>
@@ -41,7 +41,7 @@
   </section>
   <hr/>
 <section>
-  <h2 id="Get my reward"> I have captured one of them,how to get my reward? </h2>
+  <h2 id="Get-my-reward"> I have captured one of them,how to get my reward? </h2>
   <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. </p>
   <img src="https://via.placeholder.com/140" alt="placeholder"/>
        <input type ="submit"
@@ -49,7 +49,7 @@
         </input>
   <hr/>
   <section>
-    <h2 id="Best hunter">Best hunter</h2>
+    <h2 id="Best-hunter">Best hunter</h2>
       <img src="https://via.placeholder.com/70" alt="placeholder"/>
           <p>ElvestKiller22</br>2 captured -<u>Profile</u></br>like 68k</p>
       <img src="https://via.placeholder.com/70" alt="placeholder"/>
@@ -59,7 +59,7 @@
 <hr/>
 
 <section>
-  <h2 id="The Ring">About the ring</h2>
+  <h2 id="The-Ring">About the ring</h2>
     <article>
       <p>Ring Captabilities</p>
       <table>
@@ -90,7 +90,7 @@
 </section>
 <hr/>
 <section>
-  <h2 id="Join the army">Join mordor army,we need you !</h2>
+  <h2 id="Join-the-army">Join mordor army,we need you !</h2>
    <img src=https://via.placeholder.com/140x140 alt="placeholder"/>
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. 
   </p> 
@@ -100,7 +100,7 @@
 </section>
     <hr/>
 <section>
-  <h1 id="Contact us">Contact us</h1> 
+  <h1 id="Contact-us">Contact us</h1> 
                 <input type="email" name="mail" placeholder="Email">
                 <input type="text" name="adresse" placeholder="Adresse">
                 <input type="text" name="text">
@@ -114,7 +114,7 @@
 			<ul>
 				<li><a href="#">About us</a></li>
 				<li><a href="#Fellows">Fellows</a></li>
-				<li><a href="#Join the army">Join our army</a></li>
+				<li><a href="#Join-the-army">Join our army</a></li>
 			</ul>
 			<ul>
 				<li><a href="#">FAQ</a></li>
