@@ -14,12 +14,12 @@
      <h1>FinThePrecious.com</h1>
      <nav>
     <ul>
-				<li>href="#Fellows">Fellows</li>
-				<li>href="#The-Ring">The Ring</li>
-				<li>href="#Get-my-reward">Get my reward</li>
-				<li>href="#Best-hunter">Best hunters</li>
-				<li>href="#Join-the-army">Join the army</li>
-				<li>href="#Contact-us">Contact us</li>
+	    <li><href="#Fellows"></a>Fellows</li>
+	    <li><href="#The-Ring"></a>The Ring</li>
+	    <li><href="#Get-my-reward"></a>Get my reward</li>
+	    <li><href="#Best-hunter"></a>Best hunters</li>
+	    <li><href="#Join-the-army"></a>Join the army</li>
+	    <li><href="#Contact-us"></a>Contact us</li>
 			</ul>
      <img src=https://via.placeholder.com/140x140?text=140x140 alt="placeholder"/>
           <p>Dangerous fellowship try to destroy the ring</br>Orc,Goblins,Balrogs,protect your master Sauron !</>
