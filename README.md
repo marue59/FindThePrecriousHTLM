@@ -12,13 +12,13 @@
      <h1>FinThePrecious.com</h1>
      <nav>
     <ul>
-				<li><a href="#Fellows">Fellows</a></li>
-				<li><a href="#The Ring">The Ring</a></li>
-				<li><a href="#Get my reward">Get my reward</a></li>
-				<li><a href="#Best hunter">Best hunters</a></li>
-				<li><a href="#Join the army">Join the army</a></li>
-				<li><a href="#Contact us">Contact us</a></li>
-			</ul>
+	    <li><a href="#Fellows">Fellows</a></li>
+	    <li><a href="#The Ring">The Ring</a></li>
+            <li><a href="#Get my reward">Get my reward</a></li>
+            <li><a href="#Best hunter">Best hunters</a></li>
+	    <li><a href="#Join the army">Join the army</a></li>
+            <li><a href="#Contact us">Contact us</a></li>
+	</ul>
      <img src=https://via.placeholder.com/140x140?text=140x140 alt="placeholder"/>
           <p>Dangerous fellowship try to destroy the ring</br>Orc,Goblins,Balrogs,protect your master Sauron !</>
   </header>
@@ -30,13 +30,14 @@
 				<li><a href="#">Most dangerous</a></li>
 				<li><a href="#">Already captured</a></li>
 			</ul>
-    
+    <p>
        <img src=https://via.placeholder.com/150/?text=Reward+1000+gold+coins alt="placeholder"/>
           <p>The Wizard </br> Small description</p>
        <img src=https://via.placeholder.com/150/?text=Dead alt="placeholder"/>
           <p>Hobbit#3</br>Small descritpion</p>
        <img src=https://via.placeholder.com/150/?text=Reward+250+gold+coins alt="placeholder"/>
-           <p>Yummy Darf</br>Small description</p>
+           <p>Yummy Darf</br>Small description</p> 
+    </p>
   </section>
   <hr/>
 <section>
@@ -47,9 +48,7 @@ Ut velit mauris, egestas sed, gravida nec, ornare ut, mi. Aenean ut orci vel mas
 Aliquam convallis sollicitudin purus. Praesent aliquam, enim at fermentum mollis, ligula massa adipiscing nisl, ac euismod nibh nisl eu lectus. Fusce vulputate sem at sapien. Vivamus leo. Aliquam euismod libero eu enim. Nulla nec felis sed leo placerat imperdiet. Aenean suscipit nulla in justo. Suspendisse cursus rutrum augue. Nulla tincidunt tincidunt mi. Curabitur iaculis, lorem vel rhoncus faucibus, felis magna fermentum augue, et ultricies lacus lorem varius purus. Curabitur eu amet.</p>
     
   <img src="https://via.placeholder.com/140" alt="placeholder"/>
-  
-  
-        <input type ="submit"
+	 <input type ="submit"
               value ="Contact us"      
         </input>
   <hr/>
@@ -68,30 +67,25 @@ Aliquam convallis sollicitudin purus. Praesent aliquam, enim at fermentum mollis
     <article>
       <p>Ring Captabilities</p>
       <table>
-        <caption>What can our master Sauron do with the ring</caption>
-        
-        <tr>
-          <td>Feature</td>
-          <td>Description</td>
-          
-        </tr>
-        
-        <tr>
-          <td>Main</td>
-          <td>One ring to rules them all</td>
-        </tr>
-        
-        <tr>
-          <td>Invisibility</td>
-          <td>You can't see me</td>
-        </tr>
-        
-        <tr>
-          <td>Power<td>
-          <td>Destroy the wolrd</td>
-        </tr>
+               <caption>What can our master Sauron do with the ring ?</caption>
+               <tr>
+                   <th>Feature</th>
+                   <th>Description</th>
+               </tr>
+              <tr>
+                  <td>Main</td>
+                  <td>One  ring to rules them all</td>
+              </tr>    
+               <tr>
+                   <td>Invisibility</td>
+                   <td>You cant't see mee</td>
+               </tr>
+               <tr>
+                   <td>Power</td>
+                   <td>Destroy the world</td>
+               </tr>
+           </table>
 
-      </table>
     
   </article>
   
@@ -118,19 +112,19 @@ Aliquam convallis sollicitudin purus. Praesent aliquam, enim at fermentum mollis
          value="More info on SauronRulesThemAll.com"
          </input>
 </section>
- <form>
-		<input type="text" name="@" value="@">
-   </br>
-		<input type="text" name="adresse" value="adresse">
-</br>
-		<select>
-			<option>I have seen one of them</option>
-      <option>.....</option>
-      <option>......</option>
-		</select>
-   </br>
-		<textarea></textarea>
-	</form>
+<hr/>
+<section>
+	<h1 id="Contact us">Contact us</h1> 
+	<form method="post" action="#">
+                <input type="email" name="mail" placeholder="Email">
+                <input type="text" name="adresse" placeholder="Adresse">
+                <input type="text" name="text">
+                <textarea name="textarea"
+                          cols="50">
+                </textarea>
+            </form>
+
+	
 </section>
 
 <footer>
