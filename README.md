@@ -5,6 +5,7 @@
   <title>FindThePrecious</title>
   <link rel="stylesheet" href="styles/index.processed.css">
   <link href ="https://placeholder.com/">
+  <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   
 </head>
  
