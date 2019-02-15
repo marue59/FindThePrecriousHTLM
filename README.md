@@ -5,13 +5,7 @@
   <title>FindThePrecious</title>
   <link rel="stylesheet" href="styles/index.processed.css">
   <link href ="https://placeholder.com/">
-  <meta name="selected-link" value="/login" data-pjax-transient>
-  <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
-  <link rel="assets" href="https://github.githubassets.com/">
-  <meta http-equiv="x-pjax-version" content="5f4aa3497ff42b962ea43ad3ad7ca22c">
-  
 </head>
- 
 <body>
    <header>
      <h1>FinThePrecious.com</h1>
@@ -64,9 +58,9 @@
 <section>
   <h2 id="The-Ring">About the ring</h2>
     <article>
-      <p>Ring Captabilities</p>
+	    <p>Ring Captabilities</p></br>
+	<p>What can our master Sauron do with the ring</p>
       <table>
-        <caption>What can our master Sauron do with the ring</caption>
         <tr>
           <td>Feature</td>
           <td>Description</td>
@@ -104,12 +98,14 @@
     <hr/>
 <section>
   <h1 id="Contact-us">Contact us</h1> 
+	 <form method="post" action="#">
                 <input type="email" name="mail" placeholder="Email">
                 <input type="text" name="adresse" placeholder="Adresse">
                 <input type="text" name="text">
                 <textarea name="textarea"
                           cols="50">
 	</textarea>
+	</form>
         </section>
 
 <footer>
