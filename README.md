@@ -101,19 +101,16 @@
     <hr/>
 <section>
   <h1 id="Contact us">Contact us</h1> 
- <form method="post" action="#">
-                <input type="email" name="mail" placeholder="@"</input>
-                <input type="text" name="adresse" placeholder="Adresse"</input>
-   <select>
-           <option value="I have see one on them">I have see one of them</option>
-           <option value="....">....</option>
-           <option value="...">...</option>
-       </select>
+  <form method="post" action="#">
+                <input type="email" name="mail" placeholder="Email">
+                <input type="text" name="adresse" placeholder="Adresse">
+                <input type="text" name="text">
                 <textarea name="textarea"
-                          cols="100">
+                          cols="50">
                 </textarea>
             </form>
-</section>
+        </section>
+
 <footer>
 		<nav>
 			<ul>
