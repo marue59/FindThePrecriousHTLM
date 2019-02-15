@@ -5,7 +5,10 @@
   <title>FindThePrecious</title>
   <link rel="stylesheet" href="styles/index.processed.css">
   <link href ="https://placeholder.com/">
-  
+  <meta name="selected-link" value="/login" data-pjax-transient>
+  <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+  <link rel="assets" href="https://github.githubassets.com/">
+  <meta http-equiv="x-pjax-version" content="5f4aa3497ff42b962ea43ad3ad7ca22c">
   
 </head>
  
