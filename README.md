@@ -102,8 +102,8 @@
 <section>
   <h1 id="Contact us">Contact us</h1> 
  <form method="post" action="#">
-                <input type="email" name="mail" placeholder="@">
-                <input type="text" name="adresse" placeholder="Adresse">
+                <input type="email" name="mail" placeholder="@"</input>
+                <input type="text" name="adresse" placeholder="Adresse"</input>
    <select>
            <option value="I have see one on them">I have see one of them</option>
            <option value="....">....</option>
