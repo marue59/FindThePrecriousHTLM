@@ -41,10 +41,11 @@
   <h2 id="Get-my-reward"> I have captured one of them,how to get my reward? </h2>
   <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. </p>
   <img src="https://via.placeholder.com/140" alt="placeholder"/>
-      <form>
-      <input type ="submit"
-              value ="Contact us"      
+      <form><p>
+      <input type="submit"
+             value="Contact us"      
         </input>
+	      </p>
 	</form>
   <hr/>
   <section>
@@ -93,9 +94,11 @@
    <img src=https://via.placeholder.com/140x140 alt="placeholder"/>
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. 
   </p> <form>
+	<p>
   <input type="submit"
          value="More info on SauronRulesThemAll.com"
          </input>
+	</p>
 	</form>
 </section>
     <hr/>
@@ -103,9 +106,13 @@
   <h1 id="Contact-us">Contact us</h1> 
 	<form method="post" action="traitement.php">
 <p>
-	<input type="text" name="@" value="@"/>
+	<input type="text" 
+	       name="@" 
+	       value="@"/>
 		</br>
-	<input type="text" name="adresse" value="adresse"/>
+	<input type="text" 
+	       name="adresse" 
+	       value="adresse"/>
 		</br>
 	<select>
 		<option>I have seen one of them</option>
