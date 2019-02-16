@@ -104,7 +104,9 @@
 	<form>
 <p>
 	<input type="text" name="@" value="@"/>
+		</br>
 	<input type="text" name="adresse" value="adresse"/>
+		</br>
 	<select>
 		<option>I have seen one of them</option>
 		<option>...</option>
