@@ -101,7 +101,7 @@
     <hr/>
 <section>
   <h1 id="Contact-us">Contact us</h1> 
-	<form>
+	<form method="post" action="traitement.php">
 <p>
 	<input type="text" name="@" value="@"/>
 		</br>
