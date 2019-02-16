@@ -41,9 +41,11 @@
   <h2 id="Get-my-reward"> I have captured one of them,how to get my reward? </h2>
   <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. </p>
   <img src="https://via.placeholder.com/140" alt="placeholder"/>
-       <input type ="submit"
+      <form>
+      <input type ="submit"
               value ="Contact us"      
         </input>
+	</form>
   <hr/>
   <section>
     <h2 id="Best-hunter">Best hunter</h2>
@@ -90,21 +92,26 @@
   <h2 id="Join-the-army">Join mordor army,we need you !</h2>
    <img src=https://via.placeholder.com/140x140 alt="placeholder"/>
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. 
-  </p> 
+  </p> <form>
   <input type="submit"
          value="More info on SauronRulesThemAll.com"
          </input>
+	</form>
 </section>
     <hr/>
 <section>
   <h1 id="Contact-us">Contact us</h1> 
-	 <form method="post" action="#">
-                <input type="email" name="mail" placeholder="Email">
-                <input type="text" name="adresse" placeholder="Adresse">
-                <input type="text" name="text">
-                <textarea name="textarea"
-                          cols="50">
-	</textarea>
+	<form>
+<p>
+	<input type="text" name="@" value="@"/>
+	<input type="text" name="adresse" value="adresse"/>
+	<select>
+		<option>I have seen one of them</option>
+		<option>...</option>
+		<option>....</option>
+			</select>
+		<textarea></textarea>
+		</p>
 	</form>
         </section>
 
@@ -112,8 +119,8 @@
 		<nav>
 			<ul>
 				<li><a href="#">About us</a></li>
-				<li><a href="#Fellows">Fellows</a></li>
-				<li><a href="#Join-the-army">Join our army</a></li>
+				<li><a href="#">Fellows</a></li>
+				<li><a href="#">Join our army</a></li>
 			</ul>
 			<ul>
 				<li><a href="#">FAQ</a></li>
